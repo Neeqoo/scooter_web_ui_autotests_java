@@ -20,7 +20,7 @@ src/
 ├── main/java/pageobjects/
 │   ├── MainPage/                    # Локаторы главной страницы
 │   └──OrderPage/                    # Локаторы страницы заказа
-└── /test/java/pageobjects/
+└── test/java/pageobjects/
     ├── MainPageCheckOrderTest/      # Наборы тестов (Главная страница, проверка заказов)
     ├── MainPageQuestionTest/        # Наборы тестов (Главная страница, проверка вопрос\ответ)
     └── OrderTest/                   # Наборы тестов (Главная страница, создание нового заказа)
